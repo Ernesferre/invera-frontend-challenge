@@ -1,22 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john@example.com",
-      "phone": "(123) 456-7890",
-      "location": "United States",
-      "company": "Example Inc.",
-      "status": "Online"
-    },
-    {
-      "id": 2,
       "name": "Jane Smith",
       "email": "jane@example.com",
-      "phone": "(456) 789-0123",
+      "phone": "(456) 789-0124",
       "location": "Canada",
-      "company": "Example Inc.",
-      "status": "Offline"
+      "company": "Twitter",
+      "status": "Offline",
+      "avatar": "sdfsdfsdfsdf",
+      "id": 2
     },
     {
       "id": 3,
@@ -89,15 +81,6 @@
       "location": "India",
       "company": "LinkedIn",
       "status": "Offline"
-    },
-    {
-      "id": 11,
-      "name": "Miguel Sánchez",
-      "email": "miguel@apple.com",
-      "phone": "(512) 555-1234",
-      "location": "Spain",
-      "company": "Apple",
-      "status": "Online"
     },
     {
       "id": 12,
@@ -334,13 +317,14 @@
       "status": "Online"
     },
     {
-      "id": 38,
-      "name": "Antonio Rossi",
+      "name": "Antonio Sanchez",
       "email": "antonio@ferrari.com",
       "phone": "(399) 555-0123",
       "location": "Italy",
       "company": "Ferrari",
-      "status": "Offline"
+      "status": "Offline",
+      "avatar": "sdfsdfsdf",
+      "id": 38
     },
     {
       "id": 39,
@@ -397,15 +381,6 @@
       "status": "Offline"
     },
     {
-      "id": 45,
-      "name": "Roberto Fernandez",
-      "email": "roberto@santander.com",
-      "phone": "(349) 555-8901",
-      "location": "Spain",
-      "company": "Santander",
-      "status": "Online"
-    },
-    {
       "id": 46,
       "name": "Amara Okafor",
       "email": "amara@mtn.com",
@@ -449,6 +424,26 @@
       "location": "Egypt",
       "company": "Elsewedy",
       "status": "Offline"
+    },
+    {
+      "name": "vicky",
+      "email": "vferre@gmail.com",
+      "avatar": "sdfsdf",
+      "phone": "456123",
+      "location": "Cba",
+      "company": "Facebook",
+      "status": "Online",
+      "id": 54
+    },
+    {
+      "name": "Federico",
+      "email": "fedeferre@gmail.com",
+      "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+      "phone": "3515497845",
+      "location": "Cordoba",
+      "company": "Facebook",
+      "status": "Online",
+      "id": 61
     }
   ],
   "statics": {
