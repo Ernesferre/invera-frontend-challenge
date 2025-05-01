@@ -85,7 +85,15 @@ export default function UserFormDialog({
         title: "User has been updated successfully",
         showConfirmButton: false,
         timer: 3000,
-        //
+      });
+      setFormData({
+        name: "",
+        email: "",
+        avatar: "",
+        phone: "",
+        location: "",
+        company: companies[0],
+        status: "Offline",
       });
     }
   };
